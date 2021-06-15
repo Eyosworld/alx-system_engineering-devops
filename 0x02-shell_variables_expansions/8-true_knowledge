@@ -1,0 +1,2 @@
+#!/bin/bash
+echao $(($TRUEKNOWLEDGE + 128))
